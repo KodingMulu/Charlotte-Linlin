@@ -34,7 +34,7 @@
     "perf_hooks": "0.0.1",
     "pino": "^7.9.2",
     "qrcode-terminal": "^0.12.0",
-    "qs": "6.11.0",
+    "qs": "6.14.2",
     "request": "^2.88.2",
     "supervisor": "^0.12.0",
     "util": "^0.12.4"
